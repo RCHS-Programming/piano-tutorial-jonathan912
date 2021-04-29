@@ -13,8 +13,9 @@ public class Key extends Actor{
         isDown=false;
         key = keyName;
         sound= soundFile;
-        upImage = "white-key.png";
-        downImage = "white-key-down.png";
+        upImage = img1;
+        downImage = img2;
+        
         setImage (upImage);
     }
     /**

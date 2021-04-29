@@ -1,7 +1,7 @@
 #Greenfoot properties
-#Tue Apr 27 07:50:15 EDT 2021
+#Thu Apr 29 08:00:40 EDT 2021
 class.Crab.superclass=
-editor.fx.0.height=876
+editor.fx.0.height=867
 target2.width=80
 class.Space.superclass=greenfoot.World
 target1.type=ClassTarget
@@ -53,15 +53,15 @@ class.SquareTurtle.superclass=Turtle
 dependency1.to=Key
 target4.editor.x=189
 dependency3.type=UsesDependency
-target6.type=ClassTarget
 target2.height=50
 target2.typeParameters=
+target6.type=ClassTarget
 target1.naviview.expanded=true
 version=3.0.0
 class.Building.superclass=greenfoot.World
-editor.fx.0.y=-8
+editor.fx.0.y=0
 target5.editor.width=1044
-editor.fx.0.x=-8
+editor.fx.0.x=713
 class.Key.image=white-key.png
 target2.showInterface=false
 class.Flag.superclass=greenfoot.Actor
@@ -80,7 +80,7 @@ target6.editor.y=22
 target6.editor.x=0
 target5.editor.height=1005
 class.Explosion.superclass=greenfoot.Actor
-editor.fx.0.width=1456
+editor.fx.0.width=734
 class.Crown.superclass=greenfoot.Actor
 class.RedKey.superclass=Key
 dependency2.to=Key
